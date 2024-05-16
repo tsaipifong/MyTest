@@ -12,7 +12,7 @@ class PrintInputTest {
 	
 	@Test
 	void test() {
-		printInput.execute("Hello");
+		printInput.execute("Hello world");
 	}
 
 }
